@@ -12,5 +12,4 @@ Create menu items for scripts (1d.sh, 2d.sh) with Main Menu app:
 
 Search new items in menu and add em to favorites. When switching to one display or two displays run according script.
 
-![Menu items image]
-(https://raw.githubusercontent.com/stepansib/ubuntu-multiple-displays/master/menu-items.png)
+![Menu items image](/menu-items.png)
